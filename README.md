@@ -2,7 +2,6 @@
 - 👜 I'm a web Developer at Rasacode.in
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning react JS and Laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manisha.varma@rasacode.in
 
 <!---
